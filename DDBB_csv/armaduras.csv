@@ -1,0 +1,3 @@
+id;set;descripcion;img_helm;stat_helm;img_bod;stat_bod;img_pant;stat_pant
+1;héroe;This garment, worn by those in good standing with Hyrule royalty, has been reworked with the latest improvements, such as a new houlder guard.;;;https://raw.githubusercontent.com/iraes09/imagenes_PFC/refs/heads/main/armaduras/1.png;5;;
+2;bárbaro;Armor once favored by an ancient warlike tribe from the "Faron". The war paint bolsters your fighting spirit and raises your attack power.;https://raw.githubusercontent.com/iraes09/imagenes_PFC/refs/heads/main/armaduras/2_helm.png;3;https://raw.githubusercontent.com/iraes09/imagenes_PFC/refs/heads/main/armaduras/2_bod.png;3;https://raw.githubusercontent.com/iraes09/imagenes_PFC/refs/heads/main/armaduras/2_pant.png;3
